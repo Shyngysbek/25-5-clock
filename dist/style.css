@@ -1,0 +1,15 @@
+h3 {
+  margin: 0px;
+}
+
+.main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.break-session-box {
+  display: flex;
+}
